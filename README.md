@@ -20,5 +20,3 @@
 
 * Create a static build with  `npm run build`
 * Serve up the `react-examples` directory yourself (e.g. with [http-server](https://github.com/indexzero/http-server))
-
-### MIT Licensed
